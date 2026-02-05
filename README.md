@@ -1,7 +1,7 @@
 # VistaTheme
 Vista inspired Obsidian theme. 
 
-This is still a work in progres so there are might be some bugs on the appearance. 
+This is still a work in progres so there might be some bugs on the appearance. 
 
 Works best with the following base themes: Border, LaTeX, Neuborder, velocity, wkipedia.
 
