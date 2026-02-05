@@ -1,9 +1,15 @@
 # VistaTheme
 Vista inspired Obsidian theme. 
-This is still a work in progres so there are some bugs on the appearance. 
-Works best with themes like: Border, LaTeX, Neuborder, velocity, wkipedia.
 
-### How to set theme
+This is still a work in progres so there are might be some bugs on the appearance. 
+
+Works best with the following base themes: Border, LaTeX, Neuborder, velocity, wkipedia.
+
+![alt text](https://github.com/sienago/Images/blob/main/Vista_Thm_Obsidian.png)
+Example with Neuborder as base.
+
+
+### Usage
 - On the vault where you want to apply the theme, go to settings.
 - Click on the Appearance tab.
 - On Themes, select Manage and install any community theme you want to use.
